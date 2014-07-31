@@ -1,0 +1,3 @@
+# IntelliJ project file.  I'd like to check this in but IntelliJ is still not
+# VCS friendly -- some of the project files still change frequently.
+/intellij
