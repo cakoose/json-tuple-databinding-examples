@@ -1,2 +1,4 @@
 # Maven output folder.
 /target
+
+/.idea
